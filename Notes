@@ -1,0 +1,55 @@
+https://www.geeksforgeeks.org/general-keyboard-shortcuts-for-visual-studio-code/
+
+- Colour Picker
+https://www.w3schools.com/colors/colors_picker.asp
+
+
+Username:abc
+Passord:123
+
+Short Cut for Myra Laptop
+1. ctrl+Q = run
+2. ctrl+w = stop
+3. ctrl k+ ctrl s = setting
+4. ctrl tab = select the file 
+
+Password // - will be save into admin_credentials
+Username // - will be save into terminal 
+
+
+//Calculation Works//- Select Course//
+If your undergraduate course fee is RM 6000 for 3 years with a 10% discount per year, the calculation for the discounted total fee would be as follows:
+
+Base Fee: RM 6000 (for 1 year)
+
+Discount: 10% per year for 3 years
+
+Let's break down the calculation:
+
+Year 1: Full fee of RM 6000
+Year 2: Fee after 10% discount = RM 6000 - (10% of RM 6000) = RM 6000 - RM 600 = RM 5400
+Year 3: Fee after 10% discount = RM 6000 - RM 600 = RM 5400
+To calculate the total discounted fee for 3 years:
+
+Total Fee=Year 1 Fee + Year 2 Fee + Year 3 Fee
+
+Total Fee=Year 1 Fee+ Year 2 Fee+ Year 3 Fee
+
+Total Fee =5400 + 5400 + 5400
+Total Fee = 16800
+
+So, the total discounted fee for the undergraduate course over 3 years, with a 10% discount per year, would be RM 16,800.
+
+
+OOAD Notes:
+
+
+GridBagConstraints, which is a class used in Java's Swing framework for laying 
+out components in a grid format using the GridBagLayout manager.
+
+import javax.imageio.ImageIO;
+
+
+abc
+123
+
